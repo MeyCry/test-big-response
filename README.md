@@ -27,3 +27,7 @@ $ npm start
 6) Wait for a while. Until under button will be shown the link.
 
 7) Click on the link. In new tab will be full response that was in memory.
+
+The front-end solution is here: https://github.com/MeyCry/test-big-response/blob/master/views/index.ejs
+
+The back-end solution is here: https://github.com/MeyCry/test-big-response/blob/master/routes/index.js
