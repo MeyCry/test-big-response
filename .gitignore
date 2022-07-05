@@ -1,0 +1,5 @@
+node_modules
+.idea
+public/generated.json
+public/generated2.json
+public/generated3.json
