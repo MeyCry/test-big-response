@@ -10,12 +10,12 @@ This is proof of concept of big response. Tested by using 1.87 GB of data.
 $ npm i
 ```
 
-2) Generate big json file
+2) Generate big json file:
 ```
 $ node public/generate-big.js
 ```
 
-3) Run server
+3) Run server:
 ```
 $ npm start
 ```
